@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hellobluefat/time-machine/issues"
   },
-  "homepage": "https://github.com/hellobluefat/time-machine#readme"
+  "homepage": "https://github.com/hellobluefat/time-machine#readme",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  }
 }
